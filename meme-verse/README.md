@@ -13,7 +13,14 @@ Uma aplicação web para compartilhar memes de forma fácil e divertida.
  - Cards de memes
  - Sistema de curtida e comentários
 
-
+## Componentes Implementados 
+- Header
+- Footer
+- HeroSection
+- CategorieSection
+- MemeCard
+- Sidebar
+- InteractionBar
                        
 
 
